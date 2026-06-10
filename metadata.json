@@ -1,0 +1,6 @@
+{
+  "name": "Bubble Shooter Mobile",
+  "description": "A premium modern Bubble Shooter game with smooth physics, particle effects, multiple levels, and local progress saving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
